@@ -13,6 +13,8 @@ Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com f
 - `entrevista.py` → Classifica candidatos com base nas respostas.
 - `iteracao.py` → Prática com laços de repetição.
 - `iteracao_multiplas_listas.py` → Itera sobre múltiplas listas ao mesmo tempo.
+- `jogo_dos_estados.py` → Pergunta qual a capital de um determinado Estado do Brasil. Conta quantidade de erros e acertos dando percentual do mesmo.
+
 
 ---
 
