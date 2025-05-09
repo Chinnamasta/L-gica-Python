@@ -29,7 +29,6 @@ Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com f
 ## 🧠 Sobre mim
 
 Sou desenvolvedora em formação, com foco em IA aplicada, Python e LangChain.  
-Neste repositório, compartilho minha base de estudos em lógica — essencial para o que estou construindo agora e no futuro.
-
+Neste repositório, compartilho minha base de estudos em Python — essencial para o que estou construindo.
 📍 Me encontra também no Linkedin: (https://www.linkedin.com/in/joana-ottoni-7820b095/)
 
