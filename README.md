@@ -1,6 +1,6 @@
 # 🧠 Lógica de Programação em Python
 
-Este repositório reúne meus exercícios de lógica usando Python.  
+Este repositório reúne meus desafios de lógica usando Python.  
 Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com foco em prática, organização e evolução constante como desenvolvedora.
 
 ---
