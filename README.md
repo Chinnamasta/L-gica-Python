@@ -1,7 +1,7 @@
 # 🧠 Lógica de Programação em Python
 
 Este repositório reúne meus desafios de lógica usando Python.  
-Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com foco em prática, organização e evolução constante como desenvolvedora.
+Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com foco em prática, organização e evolução como desenvolvedora.
 
 ---
 
@@ -31,6 +31,6 @@ Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com f
 ## 🧠 Sobre mim
 
 Sou desenvolvedora em formação, com foco em IA aplicada, Python e LangChain.  
-Neste repositório, compartilho minha base de estudos em Python — essencial para o que estou construindo.
+Neste repositório, compartilho minha base de estudos em Python.
 📍 Me encontra também no Linkedin: (https://www.linkedin.com/in/joana-ottoni-7820b095/)
 
