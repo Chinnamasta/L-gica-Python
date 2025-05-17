@@ -17,7 +17,7 @@ Os códigos aqui apresentados fazem parte da minha jornada de aprendizado, com f
 - `cifra_de_cesar.py`
 - `baralho_de_cartas.py` → Baralho onde cinco cartas são distribuídas de forma aleatória entre quatro jogadores.
 - `bissexto.py` → Verifica se o ano é bissexto.
-
+- `chatbot_review.py` → A partir da avaliação de um cliente extrair as informações referentes ao produto, entrega, atendimento e satisfação.
 
 ---
 
